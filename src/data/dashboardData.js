@@ -12,7 +12,7 @@ export const dashboardData = {
       subtext: 'Evaluasi Keseluruhan'
     },
     testingTools: {
-      title: 'Statistik Penelitian',
+      title: 'Tools Pengujian',
       value: 4,
       subtext: 'Cypress, Playwright, OWASP ZAP, SUS Questionnaire'
     },
